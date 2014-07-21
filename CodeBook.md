@@ -1,5 +1,5 @@
-jhu-get-data-project
-====================
+jhu-get-data-project - CodeBook.md
+==================================
 
 John Hopkins University - Getting and Cleaning Data Course Coursera Project material - CodeBook
 
